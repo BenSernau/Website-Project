@@ -1,0 +1,140 @@
+article
+{
+	display: none;
+	top: -500px;
+	margin-left: 330px; 
+	position: relative;
+	word-wrap: break-word;
+}
+
+aside
+{
+	display: table;
+}
+
+body
+{
+	background-color: black;
+	color: lime;
+	font-family: Courier New, Courier, monospace; 
+	font-size: 16pt;  
+}
+
+button
+{
+	background-color: lime;
+	border: none;
+	color: black;
+	font-weight: bold;
+	font-family: Courier New, Courier, monospace; 
+	font-size: 24pt;  
+	text-align: center;
+	padding: 10px;
+	width: 80%;
+	display: block; 
+	margin: 15px auto; 
+}
+
+button:hover
+{
+	background-color: limegreen;
+	cursor: pointer;
+}
+
+button:active
+{
+	background-color: green;
+	cursor: pointer;
+}
+
+div
+{
+	display: table;
+}
+
+header 
+{
+	color: lime;
+	display: block;
+	font-family: Courier New, Courier, monospace; 
+	font-size: 36pt; 
+	margin: 15px auto; 
+	text-align: center;
+}
+
+h1
+{
+	color: lime;
+	font-family: Courier New, Courier, monospace;
+	font-size:34pt;
+	font-weight: normal;
+	left: 4px;
+	position: relative;
+	text-align:left;
+}
+
+h2
+{
+	color: lime;
+	font-size:32pt;
+	font-weight: normal;
+	left: 4px;
+	position: relative;
+	text-align:left;
+}
+
+h3
+{
+	color: lime;
+	font-family: Courier New, Courier, monospace;
+	font-size:30pt;
+	font-weight: normal;
+	left: 4px;
+	position: relative;
+	text-align:left;
+}
+
+img
+{
+	border: solid;
+	border-color: lime;
+	border-width: thick;
+	display: block;
+	height: 240px;
+	margin: 15px auto;
+	width: 240px;
+}
+
+main
+{
+	background-color: black;
+	color: lime;
+	font-family: Courier New, Courier, monospace; 
+	font-size: 16pt;  
+}
+
+#icon
+{
+	width: 32px; 
+	height: 32px;
+	font-size: 26pt; 
+	background-color: black;
+	color: lime;
+	display: block;
+	padding: 0;
+	text-align: center;
+	display: inline-block;
+	margin: 0px 4px;
+}
+
+#icon:hover
+{
+	color: limegreen;
+	cursor: pointer;
+}
+
+#icon:active
+{
+	color: green;
+	cursor: pointer;
+}
